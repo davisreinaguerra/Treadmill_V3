@@ -1,5 +1,7 @@
 # Treadmill_V3
 
+
+# Pin Assignments
 Function              | Arduino Due Pin | Labjack T7 Pin | Notes                                                | 
 |---------------------|-----------------|----------------|------------------------------------------------------|
 | LED Control Green   | n/a             | DAC0           ||
@@ -20,3 +22,4 @@ Function              | Arduino Due Pin | Labjack T7 Pin | Notes                
 | Lick                | D7              | DIO7 (FIO7)
 | Reward Solenoid     | D8              | DIO8 (EIO0)
 | Airpuff Solenoid    | D9              | DIO9 (EIO1)   
+| 
