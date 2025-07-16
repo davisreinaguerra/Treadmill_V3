@@ -14,12 +14,10 @@ Function              | Arduino Due Pin | Labjack T7 Pin | Notes                
 | Audio Right         | DAC2            | AIN5           ||
 | RotaryA             | n/a             | DIO0 (FIO0)    ||
 | RotaryB             | n/a             | DIO1 (FIO1)    ||
-| EventTrig1          | D2              | DIO2 (FIO2)
-| EventTrig2          | D3              | DIO3 (FIO3)
-| EventTrig3          | D4              | DIO4 (FIO4)
-| EventTrig4          | D5              | DIO5 (FIO5)
-| OptoTrig            | D6              | DIO6 (FIO6)
-| Lick                | D7              | DIO7 (FIO7)
-| Reward Solenoid     | D8              | DIO8 (EIO0)
-| Airpuff Solenoid    | D9              | DIO9 (EIO1)   
-| 
+| Running             | D2              | DIO2 (FIO2)
+| Trial               | D3              | DIO3 (FIO3)
+| Opto                | D4              | DIO4 (FIO4)
+| Camera              | D5              | DIO5 (FIO5)
+| Lick                | D6              | DIO7 (FIO6)
+| Reward Solenoid     | D7              | DIO8 (EIO7)
+| Airpuff Solenoid    | D8              | DIO9 (EIO0)   
