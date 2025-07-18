@@ -14,8 +14,8 @@ Function              | Due Pin  | Cam Nano Pin | Opto Nano Pin | Labjack T7 Pin
 | Audio Right         | DAC2     | n/a          | n/a           | AIN5           ||
 | RotaryA             | n/a      | n/a          | n/a           | DIO0 (FIO0)    ||
 | RotaryB             | n/a      | n/a          | n/a           | DIO1 (FIO1)    ||
-| Running             | D2       | n/a          | n/a           | DIO2 (FIO2)
-| Cue                 | D3       | n/a          | n/a           | DIO3 (FIO3)
+| Running             | D2       | n/a          | n/a           | DIO2 (FIO2)    ||
+| Cue                 | D3       | n/a          | n/a           | DIO3 (FIO3)    | Goes HIGH at start of cue period  and LOW at end, regardless of whether a cue actually plays |
 | Opto Trig           | D4       | n/a          | n/a           | DIO4 (FIO4)
 | Lick                | D5       | n/a          | n/a           | DIO5 (FIO5)
 | Reward Solenoid     | D6       | n/a          | n/a           | DIO6 (FIO6)
